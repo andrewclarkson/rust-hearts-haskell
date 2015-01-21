@@ -22,10 +22,17 @@ section.current {
     display: block;
 }
 
-section.title-slide {
+section.title-slide h1 {
     text-align: center;
     font-weight: bold;
-    font-size: 150%;
+    margin-top: 200px;
+    border: none;   
+}
+
+section.title-slide p {
+    text-align: center;
+    font-size: 80%;
+    margin: 0;
 }
 
 code.language-text {
