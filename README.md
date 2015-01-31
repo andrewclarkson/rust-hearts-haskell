@@ -1,8 +1,10 @@
 # Rust ♥'s Haskell
 
-This is a presentation about [Rust](http://www.rust-lang.org/) given by [Andrew Clarkson](https://github.com/bitborn) to the [HaskellMN](http://www.meetup.com/HaskellMN/) group at the [January 2015 Meetup](http://www.meetup.com/HaskellMN/events/218800623/). If you liked this, you'll love the great Haskell slingers at this meetup.
+This is a presentation about [Rust](http://www.rust-lang.org/) given by [Andrew Clarkson](https://github.com/bitborn) to the [HaskellMN](http://www.meetup.com/HaskellMN/) group at the [January 2015 Meetup](http://www.meetup.com/HaskellMN/events/218800623/). If you liked this, you'll love the great Haskell slingers at this Meetup.
 
 This talk highlights some of the more functional aspects of Rust that were explicitly stolen from Haskell and similarly minded functional languages (ML and OCaml).
+
+The presentation can be [viewed live here](http://bitborn.github.io/rust-hearts-haskell/slides.html).
 
 #Disclaimer
 
