@@ -1,9 +1,15 @@
+# Rust ♥'s Haskell
+
+This is a presentation about [Rust](http://www.rust-lang.org/) given by [Andrew Clarkson](https://github.com/bitborn) to the [HaskellMN](http://www.meetup.com/HaskellMN/) group at the [January 2015 Meetup](http://www.meetup.com/HaskellMN/events/218800623/). If you liked this, you'll love the great Haskell slingers at this meetup.
+
+This talk highlights some of the more functional aspects of Rust that were explicitly stolen from Haskell and similarly minded functional languages (ML and OCaml).
+
+#Disclaimer
+
+This talk was given by a amature Rusticorn (Rustacean?, Rusticator?) and no doubt contains amature explanations and possibly errors, luckily you can [lodge issues](https://github.com/bitborn/rust-hearts-haskell/issues) and submit pull requests to fix my mistakes!
+
+Though it is likely fairly obvious this presentation does not reflect the opinions of HaskellMN, The Rust Project, or Mozilla. :)
+
 # sliderust
 
-sliderust is a barebones HTML slide deck library.  Its main distinguishing feature is that the slides will work in [Servo](https://github.com/servo/servo) today.<sup>‡</sup>
-
-Check out the [live demo!](http://kmcallister.github.io/sliderust/)  Use the left and right arrow keys to navigate.
-
-`slides.md` contains the example slides in Markdown format.  The script `build.sh` will convert them to HTML using `rustdoc`.
-
-‡ on [this pull request branch](https://github.com/servo/servo/pull/3585)
+This presentation was generated with the awesomely simple [sliderust](https://github.com/kmcallister/sliderust) slide generator created by (Keegan McAllister)[https://github.com/kmcallister]. You should give him some stars!
