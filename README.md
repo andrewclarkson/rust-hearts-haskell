@@ -14,4 +14,4 @@ Though it is likely fairly obvious this presentation does not reflect the opinio
 
 # sliderust
 
-This presentation was generated with the awesomely simple [sliderust](https://github.com/kmcallister/sliderust) slide generator created by (Keegan McAllister)[https://github.com/kmcallister]. You should give him some stars!
+This presentation was generated with the awesomely simple [sliderust](https://github.com/kmcallister/sliderust) slide generator created by [Keegan McAllister](https://github.com/kmcallister). You should give him some stars!
